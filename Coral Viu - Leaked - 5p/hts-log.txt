@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 27 Jul 2024 17:23:07 at https://www.coralviu.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.coralviu.com/ -%L https://www.coralviu.com/ -O1 "C:\Mis lugares Web\Coral Viu" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:23:07	Error: 	Could not include URL list: https://www.coralviu.com/
+17:23:11	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://shop.app/checkouts/internal/preloads.js?locale=es-ES&shop_id=79787884870
+17:24:36	Error: 	"Not Found" (404) at link https://www.coralviu.com/modules/chunk.common_DeI5GJNH.esm.js (from https://www.coralviu.com/)
+17:24:37	Error: 	"Not Found" (404) at link https://www.coralviu.com/cdn/shop/ (from https://www.coralviu.com/)
+17:24:37	Error: 	"Not Found" (404) at link https://www.coralviu.com/i (from https://www.coralviu.com/)
+17:24:37	Error: 	"Not Found" (404) at link https://www.coralviu.com/POST (from https://www.coralviu.com/)
+17:24:37	Error: 	"Error when decompressing" (-1) at link https://www.coralviu.com/cdn (from https://www.coralviu.com/)
+17:30:12	Error: 	"Not Found" (404) at link https://www.coralviu.com/collections/modules/chunk.common_DeI5GJNH.esm.js (from https://www.coralviu.com/collections/all)
+17:30:12	Error: 	"Not Found" (404) at link https://www.coralviu.com/collections/i (from https://www.coralviu.com/collections/all)
+17:30:12	Error: 	"Not Found" (404) at link https://www.coralviu.com/collections/POST (from https://www.coralviu.com/collections/all)
+17:42:43	Error: 	"Not Found" (404) at link https://www.coralviu.com/pages/modules/chunk.common_DeI5GJNH.esm.js (from https://www.coralviu.com/pages/sobre-nosotros)
+17:42:43	Error: 	"Not Found" (404) at link https://www.coralviu.com/pages/i (from https://www.coralviu.com/pages/sobre-nosotros)
+17:42:43	Error: 	"Not Found" (404) at link https://www.coralviu.com/pages/POST (from https://www.coralviu.com/pages/sobre-nosotros)
+17:42:43	Error: 	"Not Found" (404) at link https://www.coralviu.com/Trident/ (from https://www.coralviu.com/cart)
+17:42:43	Error: 	"Not Found" (404) at link https://www.coralviu.com/products/modules/chunk.common_DeI5GJNH.esm.js (from https://www.coralviu.com/products/pendiente-boton-esponja-banado-en-oro)
+17:42:43	Error: 	"Not Found" (404) at link https://www.coralviu.com/products/i (from https://www.coralviu.com/products/pendiente-boton-esponja-banado-en-oro)
+17:42:43	Error: 	"Not Found" (404) at link https://www.coralviu.com/products/POST (from https://www.coralviu.com/products/pendiente-boton-esponja-banado-en-oro)
+17:42:43	Error: 	"Not Found" (404) at link https://www.coralviu.com/products/Trident/ (from https://www.coralviu.com/products/pendiente-boton-esponja-banado-en-oro)
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 minutes 36 seconds : 880 links scanned, 863 files written (392155485 bytes overall) [377482457 bytes received at 320988 bytes/sec], 23485883 bytes transferred using HTTP compression in 180 files, ratio 19%, 87.7 requests per connection
+(17 errors, 1 warnings, 0 messages)

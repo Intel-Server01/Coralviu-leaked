@@ -1,0 +1,20 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+coralviu.com	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22ESIB%22%2C%22reg%22%3A%22GDPR%22%7D
+www.coralviu.com	TRUE	/	FALSE	1999999999	_shopify_country	Spain
+www.coralviu.com	TRUE	/	FALSE	1999999999	keep_alive	b6c0ea22-0806-4807-9288-e96b99355e2e
+coralviu.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22p%22%3Afalse%2C%22a%22%3Afalse%2C%22m%22%3Afalse%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Atrue%2C%22sale_of_data_region%22%3Afalse%7D
+coralviu.com	TRUE	/	FALSE	1999999999	_shopify_y	237bc812-d386-4a9f-88de-8f21e9d6819d
+coralviu.com	TRUE	/	FALSE	1999999999	_shopify_s	57f8e6bc-88f1-40a7-ade6-5d7665d9a34a
+www.coralviu.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.coralviu.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.coralviu.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.coralviu.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.coralviu.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.coralviu.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.coralviu.com	TRUE	/	FALSE	1999999999	localization	ES
+www.coralviu.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.coralviu.com	TRUE	/	FALSE	1999999999	cart_currency	EUR
+www.coralviu.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+coralviu.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
